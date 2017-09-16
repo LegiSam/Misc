@@ -1,2 +1,2 @@
 # Misc
-Some of the work I've done recently
+  Just exploring different things and keeping track of it.
